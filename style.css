@@ -1,0 +1,17 @@
+body {
+  margin: 20px; 
+  font-family: sans-serif;
+}
+
+h1 {
+  float: center;
+}
+
+.verse1 {
+  background-color: #7777ff;
+  border-style: dashed;
+  border-radius: 15px;
+  border-width: 15px;
+  border-color: #ff4444;
+  border-bottom-style: solid;
+}
